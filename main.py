@@ -4,64 +4,84 @@ import re
 import traceback
 
 import util
+from github import GitHub, Since
 from util import logger
-from github import GitHub
 
 
-def generateArchiveMd(searches, topics):
+def generateArchiveMd(daily, weekly, monthly):
     """生成归档readme
     """
-    def search(item):
-        return '1. [{}]({})'.format(item['title'], item['url'])
+    def li(item):
+        href = item['href']
+        url = item['url']
+        description = item['description']
+        language = item['language']
+        stars = item['stars']
+        folks = item['folks']
+        recent_stars = item['recent_stars']
+        title = href[1:].replace('/', ' / ')
+        return '1. [{}]({})\n    - {}\n    - language: **{}** &nbsp;&nbsp; stars: **{}** &nbsp;&nbsp; folks: **{}**  &nbsp;&nbsp; `{}`\n'.format(title, url, description, language, stars, folks, recent_stars)
 
-    def topic(item):
-        return '1. [{}]({})\n    - {}\n    - {}'.format(item['title'], item['url'], item['detail'], item['info'])
+    dailyMd = '暂无数据'
+    if daily:
+        dailyMd = '\n'.join([li(item) for item in daily])
 
-    searchMd = '暂无数据'
-    if searches:
-        searchMd = '\n'.join([search(item) for item in searches])
+    weeklyMd = '暂无数据'
+    if weekly:
+        weeklyMd = '\n'.join([li(item) for item in weekly])
 
-    topicMd = '暂无数据'
-    if topics:
-        topicMd = '\n'.join([topic(item) for item in topics])
+    monthlyMd = '暂无数据'
+    if monthly:
+        monthlyMd = '\n'.join([li(item) for item in monthly])
 
     readme = ''
-    file = os.path.join('template','archive.md')
+    file = os.path.join('template', 'archive.md')
     with open(file) as f:
         readme = f.read()
 
     readme = readme.replace("{updateTime}", util.current_time())
-    readme = readme.replace("{searches}", searchMd)
-    readme = readme.replace("{topics}", topicMd)
+    readme = readme.replace("{dailyTrending}", dailyMd)
+    readme = readme.replace("{weeklyTrending}", weeklyMd)
+    readme = readme.replace("{monthlyTrending}", monthlyMd)
 
     return readme
 
 
-def generateReadme(searches, topics):
+def generateReadme(daily, weekly, monthly):
     """生成今日readme
     """
-    def search(item):
-        return '1. [{}]({})'.format(item['title'], item['url'])
+    def li(item):
+        href = item['href']
+        url = item['url']
+        description = item['description']
+        language = item['language']
+        stars = item['stars']
+        folks = item['folks']
+        recent_stars = item['recent_stars']
+        title = href[1:].replace('/', ' / ')
+        return '1. [{}]({})\n    - {}\n    - language: **{}** &nbsp;&nbsp; stars: **{}** &nbsp;&nbsp; folks: **{}**  &nbsp;&nbsp; `{}`\n'.format(title, url, description, language, stars, folks, recent_stars)
 
-    def topic(item):
-        return '1. [{}]({})\n    - {}\n    - {}'.format(item['title'], item['url'], item['detail'], item['info'])
+    dailyMd = '暂无数据'
+    if daily:
+        dailyMd = '\n'.join([li(item) for item in daily])
 
-    searchMd = '暂无数据'
-    if searches:
-        searchMd = '\n'.join([search(item) for item in searches])
+    weeklyMd = '暂无数据'
+    if weekly:
+        weeklyMd = '\n'.join([li(item) for item in weekly])
 
-    topicMd = '暂无数据'
-    if topics:
-        topicMd = '\n'.join([topic(item) for item in topics])
+    monthlyMd = '暂无数据'
+    if monthly:
+        monthlyMd = '\n'.join([li(item) for item in monthly])
 
     readme = ''
-    file = os.path.join('template','README.md')
+    file = os.path.join('template', 'README.md')
     with open(file) as f:
         readme = f.read()
 
     readme = readme.replace("{updateTime}", util.current_time())
-    readme = readme.replace("{searches}", searchMd)
-    readme = readme.replace("{topics}", topicMd)
+    readme = readme.replace("{dailyTrending}", dailyMd)
+    readme = readme.replace("{weeklyTrending}", weeklyMd)
+    readme = readme.replace("{monthlyTrending}", monthlyMd)
 
     return readme
 
@@ -78,28 +98,20 @@ def handleArchiveMd(md):
     util.write_text(file, md)
 
 
-def saveRawContent(content: str, filePrefix: str):
-    filename = '{}-{}.html'.format(filePrefix, util.current_date())
-    file = os.path.join('raw', filename)
-    util.write_text(file, content)
-
-
 def run():
-    weibo = Weibo()
-    # 热搜
-    searches, resp = weibo.get_hot_search()
-    if resp:
-        saveRawContent(resp.text,'hot-search')
-    # 话题榜
-    topics, resp = weibo.get_hot_topic()
-    if resp:
-        saveRawContent(resp.text,'hot-topic')
+    github = GitHub()
+    # 今日趋势
+    daily, resp = github.get_trending_repository(Since.daily)
+    # 最近一周趋势
+    weekly, resp = github.get_trending_repository(Since.weekly)
+    # 最近一个月趋势
+    monthly, resp = github.get_trending_repository(Since.monthly)
 
     # 最新数据
-    readme = generateReadme(searches, topics)
+    readme = generateReadme(daily, weekly, monthly)
     handleReadme(readme)
     # 归档
-    archiveMd = generateArchiveMd(searches, topics)
+    archiveMd = generateArchiveMd(daily, weekly, monthly)
     handleArchiveMd(archiveMd)
 
 

@@ -1,11 +1,15 @@
-# 微博热榜
+# GitHub热榜
 
 `最后更新时间：{updateTime}`
 
-## 热门搜索
+## 今日趋势
 
-{searches}
+{dailyTrending}
 
-## 热门话题
+## 本周趋势
 
-{topics}
+{weeklyTrending}
+
+## 本月趋势
+
+{monthlyTrending}

@@ -7,12 +7,6 @@ logger = logging.getLogger(__name__)
 logger.setLevel(level=logging.INFO)
 
 
-def strip_embracing_quotes(text: str):
-    if text.startswith('"') and text.endswith('"'):
-        return text[1:-1]
-    return text
-
-
 def current_time():
     return datetime.now().astimezone().strftime('%Y-%m-%d %H:%M:%S %z')
 

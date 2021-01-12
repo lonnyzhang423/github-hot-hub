@@ -1,4 +1,4 @@
-# weibo-hot-hub
+# github-hot-hub
 
 记录[GitHub](https://www.github.com)从 2021-01-12 日至今的[trending](https://github.com/trending)。每小时抓取一次数据，按天[归档](archives)。
 
@@ -6,7 +6,7 @@
 
 ## 今日趋势
 
-{dailyTrending}}
+{dailyTrending}
 
 ## 本周趋势
 

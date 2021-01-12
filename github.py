@@ -44,29 +44,48 @@ class GitHub:
 
     def get_trending_repository(self, since: Since = Since.daily):
         """热门仓库
+        {'href': href, 'url': url, 'description': desc, 'language': language,
+        'stars': stars, 'folks': folks, 'recent_stars': recent_stars}
         """
         items = []
         resp = None
         try:
             with request_session() as s:
-                resp = s.get(TRENDING_REPOSITORY_URL)
+                params = {'since': since.value}
+                resp = s.get(TRENDING_REPOSITORY_URL, params=params)
                 soup = BeautifulSoup(resp.text, features='html.parser')
                 articles = soup.select('main article.Box-row')
-                logger.info('articles:%s', len(articles))
                 for article in articles:
                     href = article.select_one('h1.h3 > a')['href']
-                    desc = article.select_one('p').text.strip()
+                    url = 'https://github.com' + href
+                    logger.info('%s %s', since, href)
+
+                    # 项目描述
+                    description = '无'
+                    desc = article.select_one('article > p')
+                    if desc:
+                        description = desc.text.strip()
+
                     div = article.select_one('div.f6')
-                    spans = div.select('span')
-                    # TODO 并非每个仓库都有语言标签
-                    language = spans[0].text.strip()
-                    since_stars = spans[2].text.strip()
-                    all_stars = div.select_one('a').text.strip()
-                    logger.info('repo:%s %s', href,desc)
-                    logger.info('lan:%s stars:%s allStars:%s',
-                                language, since_stars, all_stars)
+                    spans = div.select('div > span')
+                    # 并非每个仓库都有语言标签
+                    language = '无'
+                    if len(spans) == 3:
+                        language = spans[0].text.strip()
+                    # 最近关注数
+                    recent_stars = spans[-1].text.strip()
+
+                    star_folk = div.select('a')
+                    stars = star_folk[0].text.strip()
+                    folks = star_folk[1].text.strip()
+
+                    item = {'href': href, 'url': url, 'description': description, 'language': language,
+                            'stars': stars, 'folks': folks, 'recent_stars': recent_stars}
+                    logger.debug('repo:%s', item)
+                    items.append(item)
         except:
             logger.warning(traceback.format_exc())
+
         return (items, resp)
 
     def get_trending_developer(self):
@@ -77,23 +96,7 @@ class GitHub:
         try:
             with request_session() as s:
                 resp = s.get(TRENDING_DEVELOPER_URL)
-                html = resp.text
-                soup = BeautifulSoup(html)
-                ul = soup.select('section.list > ul.list_b > li')
-                if ul:
-                    for li in ul:
-                        a = li.find('a')
-                        if a:
-                            url = 'https://s.weibo.com{}'.format(a['href'])
-                            title = a.select_one('article > h2').text
-                            detail = a.select_one('article > p').text
-                            if not detail:
-                                detail = '暂无数据'
-                            info = a.select_one('article > span').text
-                            if not info:
-                                info = '暂无数据'
-                            items.append({'title': title, 'url': url,
-                                          'detail': detail, 'info': info})
+                soup = BeautifulSoup(resp.text)
         except:
             logger.warning(traceback.format_exc())
         return (items, resp)
@@ -101,5 +104,5 @@ class GitHub:
 
 if __name__ == "__main__":
     github = GitHub()
-    repositories, resp = github.get_trending_repository(Since.daily)
-    # logger.info('%s', repositories[0])
+    repositories, resp = github.get_trending_repository(Since.weekly)
+    logger.info('%s', repositories[0])
