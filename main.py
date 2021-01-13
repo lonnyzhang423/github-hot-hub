@@ -1,7 +1,5 @@
 import logging
 import os
-import re
-import traceback
 
 import util
 from github import GitHub, Since

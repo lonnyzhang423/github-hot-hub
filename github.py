@@ -1,6 +1,5 @@
 import contextlib
 import json
-import traceback
 from enum import Enum
 
 import requests
@@ -84,7 +83,7 @@ class GitHub:
                     logger.debug('repo:%s', item)
                     items.append(item)
         except:
-            logger.warning(traceback.format_exc())
+            logger.exception('get trending repository failed')
 
         return (items, resp)
 
@@ -98,7 +97,8 @@ class GitHub:
                 resp = s.get(TRENDING_DEVELOPER_URL)
                 soup = BeautifulSoup(resp.text)
         except:
-            logger.warning(traceback.format_exc())
+            logger.exception('get trending developer failed')
+
         return (items, resp)
 
 
