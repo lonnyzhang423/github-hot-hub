@@ -10,81 +10,81 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
-`更新时间：2021-01-14 04:31:53 +0800`
+`更新时间：2021-01-14 05:24:11 +0800`
 
 ## 今日热门仓库
 
 1. [coder2gwy / coder2gwy](https://github.com/coder2gwy/coder2gwy)
     - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
-    - language: **无** &nbsp;&nbsp; stars: **5,881** &nbsp;&nbsp; folks: **815**  &nbsp;&nbsp; `2,604 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **5,883** &nbsp;&nbsp; folks: **816**  &nbsp;&nbsp; `2,604 stars today`
 
 1. [imgcook / imove](https://github.com/imgcook/imove)
     - Move your mouse, generate code from flow chart
-    - language: **TypeScript** &nbsp;&nbsp; stars: **522** &nbsp;&nbsp; folks: **33**  &nbsp;&nbsp; `213 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **525** &nbsp;&nbsp; folks: **33**  &nbsp;&nbsp; `213 stars today`
 
 1. [juicedata / juicefs](https://github.com/juicedata/juicefs)
     - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-    - language: **Go** &nbsp;&nbsp; stars: **1,625** &nbsp;&nbsp; folks: **78**  &nbsp;&nbsp; `351 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **1,633** &nbsp;&nbsp; folks: **79**  &nbsp;&nbsp; `351 stars today`
 
 1. [d0nk / parler-tricks](https://github.com/d0nk/parler-tricks)
     - Reverse engineered Parler API
-    - language: **无** &nbsp;&nbsp; stars: **173** &nbsp;&nbsp; folks: **26**  &nbsp;&nbsp; `42 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **178** &nbsp;&nbsp; folks: **26**  &nbsp;&nbsp; `42 stars today`
 
 1. [signalapp / Signal-iOS](https://github.com/signalapp/Signal-iOS)
     - A private messenger for iOS.
-    - language: **Swift** &nbsp;&nbsp; stars: **6,795** &nbsp;&nbsp; folks: **1,720**  &nbsp;&nbsp; `245 stars today`
+    - language: **Swift** &nbsp;&nbsp; stars: **6,801** &nbsp;&nbsp; folks: **1,720**  &nbsp;&nbsp; `245 stars today`
 
 1. [signalapp / Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
     - Signal — Private Messenger for Windows, Mac, and Linux
-    - language: **JavaScript** &nbsp;&nbsp; stars: **8,693** &nbsp;&nbsp; folks: **1,499**  &nbsp;&nbsp; `415 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **8,703** &nbsp;&nbsp; folks: **1,499**  &nbsp;&nbsp; `415 stars today`
 
 1. [protocolbuffers / protobuf](https://github.com/protocolbuffers/protobuf)
     - Protocol Buffers - Google's data interchange format
-    - language: **C++** &nbsp;&nbsp; stars: **45,779** &nbsp;&nbsp; folks: **12,252**  &nbsp;&nbsp; `39 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **45,781** &nbsp;&nbsp; folks: **12,252**  &nbsp;&nbsp; `39 stars today`
 
 1. [ArchiveTeam / parler-grab](https://github.com/ArchiveTeam/parler-grab)
     - Archiving Parler.
-    - language: **Lua** &nbsp;&nbsp; stars: **156** &nbsp;&nbsp; folks: **23**  &nbsp;&nbsp; `86 stars today`
+    - language: **Lua** &nbsp;&nbsp; stars: **157** &nbsp;&nbsp; folks: **23**  &nbsp;&nbsp; `86 stars today`
 
 1. [Asabeneh / 30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
     - 30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **3,188** &nbsp;&nbsp; folks: **853**  &nbsp;&nbsp; `134 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **3,195** &nbsp;&nbsp; folks: **853**  &nbsp;&nbsp; `134 stars today`
 
 1. [mewedir / mewehkdirectory](https://github.com/mewedir/mewehkdirectory)
     - MeWe Directory for HongKonger
-    - language: **无** &nbsp;&nbsp; stars: **74** &nbsp;&nbsp; folks: **20**  &nbsp;&nbsp; `24 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **75** &nbsp;&nbsp; folks: **20**  &nbsp;&nbsp; `24 stars today`
 
 1. [files-community / Files](https://github.com/files-community/Files)
     - A modern file explorer that pushes the boundaries of the platform.
-    - language: **C#** &nbsp;&nbsp; stars: **3,978** &nbsp;&nbsp; folks: **283**  &nbsp;&nbsp; `146 stars today`
+    - language: **C#** &nbsp;&nbsp; stars: **3,997** &nbsp;&nbsp; folks: **283**  &nbsp;&nbsp; `146 stars today`
 
 1. [OLayemii / flutter-ui-kits](https://github.com/OLayemii/flutter-ui-kits)
     - Free Flutter UI Kits developed by Olayemi Garuba
-    - language: **Dart** &nbsp;&nbsp; stars: **189** &nbsp;&nbsp; folks: **54**  &nbsp;&nbsp; `44 stars today`
+    - language: **Dart** &nbsp;&nbsp; stars: **193** &nbsp;&nbsp; folks: **54**  &nbsp;&nbsp; `44 stars today`
 
 1. [ihebski / DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet)
     - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️🔥
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **1,041** &nbsp;&nbsp; folks: **122**  &nbsp;&nbsp; `211 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **1,045** &nbsp;&nbsp; folks: **122**  &nbsp;&nbsp; `211 stars today`
 
 1. [signalapp / Signal-Android](https://github.com/signalapp/Signal-Android)
     - A private messenger for Android.
-    - language: **Java** &nbsp;&nbsp; stars: **17,649** &nbsp;&nbsp; folks: **4,148**  &nbsp;&nbsp; `658 stars today`
+    - language: **Java** &nbsp;&nbsp; stars: **17,664** &nbsp;&nbsp; folks: **4,150**  &nbsp;&nbsp; `658 stars today`
 
 1. [felipefialho / frontend-challenges](https://github.com/felipefialho/frontend-challenges)
     - 💥 Listing some playful open-source's challenges of jobs to test your knowledge
-    - language: **无** &nbsp;&nbsp; stars: **5,159** &nbsp;&nbsp; folks: **704**  &nbsp;&nbsp; `67 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **5,175** &nbsp;&nbsp; folks: **704**  &nbsp;&nbsp; `67 stars today`
 
 1. [tootsuite / mastodon](https://github.com/tootsuite/mastodon)
     - Your self-hosted, globally interconnected microblogging community
-    - language: **Ruby** &nbsp;&nbsp; stars: **23,274** &nbsp;&nbsp; folks: **3,879**  &nbsp;&nbsp; `194 stars today`
+    - language: **Ruby** &nbsp;&nbsp; stars: **23,276** &nbsp;&nbsp; folks: **3,878**  &nbsp;&nbsp; `194 stars today`
 
 1. [objective-see / LuLu](https://github.com/objective-see/LuLu)
     - LuLu is the free macOS firewall
-    - language: **Objective-C** &nbsp;&nbsp; stars: **4,713** &nbsp;&nbsp; folks: **254**  &nbsp;&nbsp; `138 stars today`
+    - language: **Objective-C** &nbsp;&nbsp; stars: **4,717** &nbsp;&nbsp; folks: **254**  &nbsp;&nbsp; `138 stars today`
 
 1. [ossu / data-science](https://github.com/ossu/data-science)
     - 📊 Path to a free self-taught education in Data Science!
-    - language: **无** &nbsp;&nbsp; stars: **10,282** &nbsp;&nbsp; folks: **1,836**  &nbsp;&nbsp; `84 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **10,287** &nbsp;&nbsp; folks: **1,836**  &nbsp;&nbsp; `84 stars today`
 
 1. [ayuer / shanghai_house_knowledge](https://github.com/ayuer/shanghai_house_knowledge)
     - 2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。
@@ -92,19 +92,19 @@
 
 1. [ccxt / ccxt](https://github.com/ccxt/ccxt)
     - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
-    - language: **JavaScript** &nbsp;&nbsp; stars: **16,690** &nbsp;&nbsp; folks: **4,371**  &nbsp;&nbsp; `290 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **16,697** &nbsp;&nbsp; folks: **4,371**  &nbsp;&nbsp; `290 stars today`
 
 1. [carlospolop / hacktricks](https://github.com/carlospolop/hacktricks)
     - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
-    - language: **Python** &nbsp;&nbsp; stars: **935** &nbsp;&nbsp; folks: **289**  &nbsp;&nbsp; `37 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **943** &nbsp;&nbsp; folks: **289**  &nbsp;&nbsp; `37 stars today`
 
 1. [signals-dev / Orion](https://github.com/signals-dev/Orion)
     - A machine learning library for detecting anomalies in signals.
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **293** &nbsp;&nbsp; folks: **40**  &nbsp;&nbsp; `45 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **298** &nbsp;&nbsp; folks: **40**  &nbsp;&nbsp; `45 stars today`
 
 1. [arslanbilal / git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
     - git and git flow cheat sheet
-    - language: **无** &nbsp;&nbsp; stars: **3,351** &nbsp;&nbsp; folks: **920**  &nbsp;&nbsp; `78 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **3,365** &nbsp;&nbsp; folks: **921**  &nbsp;&nbsp; `78 stars today`
 
 1. [64 / cmake-raytracer](https://github.com/64/cmake-raytracer)
     - Ray tracer written in pure CMake
@@ -112,26 +112,26 @@
 
 1. [Avik-Jain / 100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
     - 100 Days of ML Coding
-    - language: **无** &nbsp;&nbsp; stars: **31,241** &nbsp;&nbsp; folks: **7,862**  &nbsp;&nbsp; `154 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **31,250** &nbsp;&nbsp; folks: **7,863**  &nbsp;&nbsp; `154 stars today`
 
 
 ## 近一周热门仓库
 
 1. [signalapp / Signal-Android](https://github.com/signalapp/Signal-Android)
     - A private messenger for Android.
-    - language: **Java** &nbsp;&nbsp; stars: **17,649** &nbsp;&nbsp; folks: **4,148**  &nbsp;&nbsp; `3,415 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **17,664** &nbsp;&nbsp; folks: **4,150**  &nbsp;&nbsp; `3,415 stars this week`
 
 1. [signalapp / Signal-Server](https://github.com/signalapp/Signal-Server)
     - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
-    - language: **Java** &nbsp;&nbsp; stars: **4,372** &nbsp;&nbsp; folks: **1,041**  &nbsp;&nbsp; `2,084 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **4,382** &nbsp;&nbsp; folks: **1,041**  &nbsp;&nbsp; `2,084 stars this week`
 
 1. [signalapp / Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
     - Signal — Private Messenger for Windows, Mac, and Linux
-    - language: **JavaScript** &nbsp;&nbsp; stars: **8,693** &nbsp;&nbsp; folks: **1,499**  &nbsp;&nbsp; `1,865 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **8,703** &nbsp;&nbsp; folks: **1,499**  &nbsp;&nbsp; `1,865 stars this week`
 
 1. [signalapp / Signal-iOS](https://github.com/signalapp/Signal-iOS)
     - A private messenger for iOS.
-    - language: **Swift** &nbsp;&nbsp; stars: **6,795** &nbsp;&nbsp; folks: **1,720**  &nbsp;&nbsp; `1,246 stars this week`
+    - language: **Swift** &nbsp;&nbsp; stars: **6,801** &nbsp;&nbsp; folks: **1,720**  &nbsp;&nbsp; `1,246 stars this week`
 
 1. [testerSunshine / 12306](https://github.com/testerSunshine/12306)
     - 12306智能刷票，订票
@@ -139,11 +139,11 @@
 
 1. [vitejs / vite](https://github.com/vitejs/vite)
     - Next generation frontend tooling. It's fast!
-    - language: **TypeScript** &nbsp;&nbsp; stars: **15,313** &nbsp;&nbsp; folks: **833**  &nbsp;&nbsp; `826 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **15,315** &nbsp;&nbsp; folks: **833**  &nbsp;&nbsp; `826 stars this week`
 
 1. [ethereum-mining / ethminer](https://github.com/ethereum-mining/ethminer)
     - Ethereum miner with OpenCL, CUDA and stratum support
-    - language: **C++** &nbsp;&nbsp; stars: **3,444** &nbsp;&nbsp; folks: **1,190**  &nbsp;&nbsp; `68 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **3,444** &nbsp;&nbsp; folks: **1,191**  &nbsp;&nbsp; `68 stars this week`
 
 1. [didi / DoraemonKit](https://github.com/didi/DoraemonKit)
     - A full-featured App (iOS & Android) development assistant. You deserve it. 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。https://www.dokit.cn/
@@ -151,7 +151,7 @@
 
 1. [tootsuite / mastodon](https://github.com/tootsuite/mastodon)
     - Your self-hosted, globally interconnected microblogging community
-    - language: **Ruby** &nbsp;&nbsp; stars: **23,274** &nbsp;&nbsp; folks: **3,879**  &nbsp;&nbsp; `522 stars this week`
+    - language: **Ruby** &nbsp;&nbsp; stars: **23,276** &nbsp;&nbsp; folks: **3,878**  &nbsp;&nbsp; `522 stars this week`
 
 1. [wlwwu / jd_maotai](https://github.com/wlwwu/jd_maotai)
     - 无
@@ -159,7 +159,7 @@
 
 1. [wasmerio / wasmer](https://github.com/wasmerio/wasmer)
     - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-    - language: **Rust** &nbsp;&nbsp; stars: **8,469** &nbsp;&nbsp; folks: **304**  &nbsp;&nbsp; `1,120 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **8,470** &nbsp;&nbsp; folks: **304**  &nbsp;&nbsp; `1,120 stars this week`
 
 1. [cehui0303 / Tmall_Tickets](https://github.com/cehui0303/Tmall_Tickets)
     - 天猫超市茅台抢票功能
@@ -175,7 +175,7 @@
 
 1. [freddier / hyperblog](https://github.com/freddier/hyperblog)
     - Un blog increíble para el curso de Git y Github de Platzi
-    - language: **HTML** &nbsp;&nbsp; stars: **3,470** &nbsp;&nbsp; folks: **5,170**  &nbsp;&nbsp; `85 stars this week`
+    - language: **HTML** &nbsp;&nbsp; stars: **3,472** &nbsp;&nbsp; folks: **5,172**  &nbsp;&nbsp; `85 stars this week`
 
 1. [aws / aws-sdk-go](https://github.com/aws/aws-sdk-go)
     - AWS SDK for the Go programming language.
@@ -191,7 +191,7 @@
 
 1. [OpenDiablo2 / OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2)
     - An open source re-implementation of Diablo 2
-    - language: **Go** &nbsp;&nbsp; stars: **9,119** &nbsp;&nbsp; folks: **627**  &nbsp;&nbsp; `110 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **9,120** &nbsp;&nbsp; folks: **627**  &nbsp;&nbsp; `110 stars this week`
 
 1. [apache / superset](https://github.com/apache/superset)
     - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -199,7 +199,7 @@
 
 1. [GRVYDEV / Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed)
     - A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
-    - language: **Shell** &nbsp;&nbsp; stars: **2,656** &nbsp;&nbsp; folks: **66**  &nbsp;&nbsp; `771 stars this week`
+    - language: **Shell** &nbsp;&nbsp; stars: **2,658** &nbsp;&nbsp; folks: **66**  &nbsp;&nbsp; `771 stars this week`
 
 1. [qiurunze123 / miaosha](https://github.com/qiurunze123/miaosha)
     - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
@@ -207,7 +207,7 @@
 
 1. [xamarin / xamarin-forms-samples](https://github.com/xamarin/xamarin-forms-samples)
     - Sample apps built using the Xamarin.Forms framework
-    - language: **C#** &nbsp;&nbsp; stars: **3,568** &nbsp;&nbsp; folks: **5,714**  &nbsp;&nbsp; `15 stars this week`
+    - language: **C#** &nbsp;&nbsp; stars: **3,568** &nbsp;&nbsp; folks: **5,716**  &nbsp;&nbsp; `15 stars this week`
 
 1. [sundowndev / PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)
     - Advanced information gathering & OSINT framework for phone numbers
@@ -218,19 +218,19 @@
 
 1. [signalapp / Signal-Android](https://github.com/signalapp/Signal-Android)
     - A private messenger for Android.
-    - language: **Java** &nbsp;&nbsp; stars: **17,649** &nbsp;&nbsp; folks: **4,148**  &nbsp;&nbsp; `3,563 stars this month`
+    - language: **Java** &nbsp;&nbsp; stars: **17,664** &nbsp;&nbsp; folks: **4,150**  &nbsp;&nbsp; `3,563 stars this month`
 
 1. [signalapp / Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
     - Signal — Private Messenger for Windows, Mac, and Linux
-    - language: **JavaScript** &nbsp;&nbsp; stars: **8,693** &nbsp;&nbsp; folks: **1,499**  &nbsp;&nbsp; `1,895 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **8,703** &nbsp;&nbsp; folks: **1,499**  &nbsp;&nbsp; `1,895 stars this month`
 
 1. [signalapp / Signal-iOS](https://github.com/signalapp/Signal-iOS)
     - A private messenger for iOS.
-    - language: **Swift** &nbsp;&nbsp; stars: **6,795** &nbsp;&nbsp; folks: **1,720**  &nbsp;&nbsp; `1,484 stars this month`
+    - language: **Swift** &nbsp;&nbsp; stars: **6,801** &nbsp;&nbsp; folks: **1,720**  &nbsp;&nbsp; `1,484 stars this month`
 
 1. [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university)
     - A complete computer science study plan to become a software engineer.
-    - language: **无** &nbsp;&nbsp; stars: **153,319** &nbsp;&nbsp; folks: **42,777**  &nbsp;&nbsp; `8,124 stars this month`
+    - language: **无** &nbsp;&nbsp; stars: **153,326** &nbsp;&nbsp; folks: **42,778**  &nbsp;&nbsp; `8,124 stars this month`
 
 1. [iptv-org / iptv](https://github.com/iptv-org/iptv)
     - Collection of 5000+ publicly available IPTV channels from all over the world
@@ -238,7 +238,7 @@
 
 1. [sherlock-project / sherlock](https://github.com/sherlock-project/sherlock)
     - 🔎 Hunt down social media accounts by username across social networks
-    - language: **Python** &nbsp;&nbsp; stars: **20,119** &nbsp;&nbsp; folks: **2,042**  &nbsp;&nbsp; `2,902 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **20,124** &nbsp;&nbsp; folks: **2,044**  &nbsp;&nbsp; `2,902 stars this month`
 
 1. [qiurunze123 / miaosha](https://github.com/qiurunze123/miaosha)
     - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
@@ -246,7 +246,7 @@
 
 1. [inancgumus / learngo](https://github.com/inancgumus/learngo)
     - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
-    - language: **Go** &nbsp;&nbsp; stars: **7,729** &nbsp;&nbsp; folks: **904**  &nbsp;&nbsp; `1,780 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **7,730** &nbsp;&nbsp; folks: **904**  &nbsp;&nbsp; `1,780 stars this month`
 
 1. [bitcoin / bitcoin](https://github.com/bitcoin/bitcoin)
     - Bitcoin Core integration/staging tree
@@ -254,19 +254,19 @@
 
 1. [mxrch / GHunt](https://github.com/mxrch/GHunt)
     - 🕵️‍♂️ Investigate Google Accounts with emails.
-    - language: **Python** &nbsp;&nbsp; stars: **8,664** &nbsp;&nbsp; folks: **611**  &nbsp;&nbsp; `2,220 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **8,665** &nbsp;&nbsp; folks: **612**  &nbsp;&nbsp; `2,220 stars this month`
 
 1. [raysan5 / raylib](https://github.com/raysan5/raylib)
     - A simple and easy-to-use library to enjoy videogames programming
-    - language: **C** &nbsp;&nbsp; stars: **5,540** &nbsp;&nbsp; folks: **634**  &nbsp;&nbsp; `707 stars this month`
+    - language: **C** &nbsp;&nbsp; stars: **5,540** &nbsp;&nbsp; folks: **635**  &nbsp;&nbsp; `707 stars this month`
 
 1. [vlang / v](https://github.com/vlang/v)
     - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
-    - language: **V** &nbsp;&nbsp; stars: **21,481** &nbsp;&nbsp; folks: **1,283**  &nbsp;&nbsp; `1,677 stars this month`
+    - language: **V** &nbsp;&nbsp; stars: **21,482** &nbsp;&nbsp; folks: **1,283**  &nbsp;&nbsp; `1,677 stars this month`
 
 1. [ottomated / CrewLink](https://github.com/ottomated/CrewLink)
     - Free, open, Among Us Proximity Chat
-    - language: **TypeScript** &nbsp;&nbsp; stars: **2,483** &nbsp;&nbsp; folks: **431**  &nbsp;&nbsp; `1,120 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **2,484** &nbsp;&nbsp; folks: **432**  &nbsp;&nbsp; `1,120 stars this month`
 
 1. [pythonstock / stock](https://github.com/pythonstock/stock)
     - stock，股票系统。使用python进行开发。
@@ -282,7 +282,7 @@
 
 1. [ottomated / CrewLink-server](https://github.com/ottomated/CrewLink-server)
     - Voice Relay server for CrewLink.
-    - language: **TypeScript** &nbsp;&nbsp; stars: **585** &nbsp;&nbsp; folks: **433**  &nbsp;&nbsp; `309 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **586** &nbsp;&nbsp; folks: **433**  &nbsp;&nbsp; `309 stars this month`
 
 1. [nondanee / UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
     - Revive unavailable songs for Netease Cloud Music
@@ -290,11 +290,11 @@
 
 1. [vitejs / vite](https://github.com/vitejs/vite)
     - Next generation frontend tooling. It's fast!
-    - language: **TypeScript** &nbsp;&nbsp; stars: **15,313** &nbsp;&nbsp; folks: **833**  &nbsp;&nbsp; `1,574 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **15,315** &nbsp;&nbsp; folks: **833**  &nbsp;&nbsp; `1,574 stars this month`
 
 1. [MarlinFirmware / Marlin](https://github.com/MarlinFirmware/Marlin)
     - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
-    - language: **C++** &nbsp;&nbsp; stars: **9,690** &nbsp;&nbsp; folks: **12,965**  &nbsp;&nbsp; `678 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **9,690** &nbsp;&nbsp; folks: **12,966**  &nbsp;&nbsp; `678 stars this month`
 
 1. [freqtrade / freqtrade](https://github.com/freqtrade/freqtrade)
     - Free, open source crypto trading bot
@@ -302,19 +302,19 @@
 
 1. [SerenityOS / serenity](https://github.com/SerenityOS/serenity)
     - The Serenity Operating System 🐞
-    - language: **C++** &nbsp;&nbsp; stars: **8,001** &nbsp;&nbsp; folks: **696**  &nbsp;&nbsp; `416 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **8,000** &nbsp;&nbsp; folks: **696**  &nbsp;&nbsp; `416 stars this month`
 
 1. [wasmerio / wasmer](https://github.com/wasmerio/wasmer)
     - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-    - language: **Rust** &nbsp;&nbsp; stars: **8,469** &nbsp;&nbsp; folks: **304**  &nbsp;&nbsp; `1,583 stars this month`
+    - language: **Rust** &nbsp;&nbsp; stars: **8,470** &nbsp;&nbsp; folks: **304**  &nbsp;&nbsp; `1,583 stars this month`
 
 1. [ethereum-mining / ethminer](https://github.com/ethereum-mining/ethminer)
     - Ethereum miner with OpenCL, CUDA and stratum support
-    - language: **C++** &nbsp;&nbsp; stars: **3,444** &nbsp;&nbsp; folks: **1,190**  &nbsp;&nbsp; `154 stars this month`
+    - language: **C++** &nbsp;&nbsp; stars: **3,444** &nbsp;&nbsp; folks: **1,191**  &nbsp;&nbsp; `154 stars this month`
 
 1. [photoprism / photoprism](https://github.com/photoprism/photoprism)
     - Personal Photo Management powered by Go and Google TensorFlow
-    - language: **Go** &nbsp;&nbsp; stars: **10,018** &nbsp;&nbsp; folks: **520**  &nbsp;&nbsp; `2,367 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **10,020** &nbsp;&nbsp; folks: **520**  &nbsp;&nbsp; `2,367 stars this month`
 
 
 ## 历史归档
