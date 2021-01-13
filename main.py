@@ -38,9 +38,9 @@ def generateArchiveMd(daily, weekly, monthly):
         readme = f.read()
 
     readme = readme.replace("{updateTime}", util.current_time())
-    readme = readme.replace("{dailyTrending}", dailyMd)
-    readme = readme.replace("{weeklyTrending}", weeklyMd)
-    readme = readme.replace("{monthlyTrending}", monthlyMd)
+    readme = readme.replace("{dailyRepositories}", dailyMd)
+    readme = readme.replace("{weeklyRepositories}", weeklyMd)
+    readme = readme.replace("{monthlyRepositories}", monthlyMd)
 
     return readme
 
@@ -77,9 +77,9 @@ def generateReadme(daily, weekly, monthly):
         readme = f.read()
 
     readme = readme.replace("{updateTime}", util.current_time())
-    readme = readme.replace("{dailyTrending}", dailyMd)
-    readme = readme.replace("{weeklyTrending}", weeklyMd)
-    readme = readme.replace("{monthlyTrending}", monthlyMd)
+    readme = readme.replace("{dailyRepositories}", dailyMd)
+    readme = readme.replace("{weeklyRepositories}", weeklyMd)
+    readme = readme.replace("{monthlyRepositories}", monthlyMd)
 
     return readme
 

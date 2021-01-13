@@ -2,14 +2,14 @@
 
 `最后更新时间：{updateTime}`
 
-## 今日趋势
+## 今日热门仓库
 
-{dailyTrending}
+{dailyRepositories}
 
-## 本周趋势
+## 近一周热门仓库
 
-{weeklyTrending}
+{weeklyRepositories}
 
-## 本月趋势
+## 近一月热门仓库
 
-{monthlyTrending}
+{monthlyRepository}
