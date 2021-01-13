@@ -22,7 +22,7 @@
 
 ## 近一月热门仓库
 
-{monthlyRepository}
+{monthlyRepositories}
 
 ## 历史归档
 

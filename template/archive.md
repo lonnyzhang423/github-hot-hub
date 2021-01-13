@@ -12,4 +12,4 @@
 
 ## 近一月热门仓库
 
-{monthlyRepository}
+{monthlyRepositories}
