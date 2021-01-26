@@ -10,81 +10,81 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
-`更新时间：2021-01-27 03:16:30 +0800`
+`更新时间：2021-01-27 04:08:41 +0800`
 
 ## 今日热门仓库
 
 1. [oblador / hush](https://github.com/oblador/hush)
     - Noiseless Browsing – Content Blocker for Safari
-    - language: **JavaScript** &nbsp;&nbsp; stars: **849** &nbsp;&nbsp; folks: **16**  &nbsp;&nbsp; `301 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **861** &nbsp;&nbsp; folks: **16**  &nbsp;&nbsp; `301 stars today`
 
 1. [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
     - Roadmap to becoming a web developer in 2021
-    - language: **无** &nbsp;&nbsp; stars: **145,053** &nbsp;&nbsp; folks: **21,543**  &nbsp;&nbsp; `138 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **145,073** &nbsp;&nbsp; folks: **21,544**  &nbsp;&nbsp; `325 stars today`
 
 1. [Asabeneh / 30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
     - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **5,953** &nbsp;&nbsp; folks: **1,220**  &nbsp;&nbsp; `252 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **5,960** &nbsp;&nbsp; folks: **1,220**  &nbsp;&nbsp; `252 stars today`
 
 1. [sundowndev / hacker-roadmap](https://github.com/sundowndev/hacker-roadmap)
     - 📌 Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.
-    - language: **无** &nbsp;&nbsp; stars: **5,027** &nbsp;&nbsp; folks: **672**  &nbsp;&nbsp; `312 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **5,040** &nbsp;&nbsp; folks: **672**  &nbsp;&nbsp; `312 stars today`
 
 1. [pavlobu / deskreen](https://github.com/pavlobu/deskreen)
     - Deskreen turns any device with a web browser to a second screen for your computer
-    - language: **TypeScript** &nbsp;&nbsp; stars: **4,329** &nbsp;&nbsp; folks: **109**  &nbsp;&nbsp; `1,731 stars today`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **4,344** &nbsp;&nbsp; folks: **109**  &nbsp;&nbsp; `1,731 stars today`
 
 1. [EvotecIT / GPOZaurr](https://github.com/EvotecIT/GPOZaurr)
     - Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them.
-    - language: **PowerShell** &nbsp;&nbsp; stars: **204** &nbsp;&nbsp; folks: **16**  &nbsp;&nbsp; `59 stars today`
+    - language: **PowerShell** &nbsp;&nbsp; stars: **208** &nbsp;&nbsp; folks: **16**  &nbsp;&nbsp; `59 stars today`
 
 1. [Developer-Y / cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
     - List of Computer Science courses with video lectures.
-    - language: **无** &nbsp;&nbsp; stars: **19,305** &nbsp;&nbsp; folks: **2,699**  &nbsp;&nbsp; `322 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **19,322** &nbsp;&nbsp; folks: **2,699**  &nbsp;&nbsp; `322 stars today`
 
 1. [jerryscript-project / jerryscript](https://github.com/jerryscript-project/jerryscript)
     - Ultra-lightweight JavaScript engine for the Internet of Things.
-    - language: **C** &nbsp;&nbsp; stars: **5,344** &nbsp;&nbsp; folks: **553**  &nbsp;&nbsp; `185 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **5,346** &nbsp;&nbsp; folks: **553**  &nbsp;&nbsp; `185 stars today`
 
 1. [firecracker-microvm / firecracker](https://github.com/firecracker-microvm/firecracker)
     - Secure and fast microVMs for serverless computing.
-    - language: **Rust** &nbsp;&nbsp; stars: **14,243** &nbsp;&nbsp; folks: **968**  &nbsp;&nbsp; `182 stars today`
+    - language: **Rust** &nbsp;&nbsp; stars: **14,248** &nbsp;&nbsp; folks: **968**  &nbsp;&nbsp; `182 stars today`
 
 1. [apache / superset](https://github.com/apache/superset)
     - Apache Superset is a Data Visualization and Data Exploration Platform
-    - language: **Python** &nbsp;&nbsp; stars: **33,896** &nbsp;&nbsp; folks: **6,700**  &nbsp;&nbsp; `495 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **33,900** &nbsp;&nbsp; folks: **6,701**  &nbsp;&nbsp; `495 stars today`
 
 1. [roboticcam / machine-learning-notes](https://github.com/roboticcam/machine-learning-notes)
     - My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (2000+ slides) 我不间断更新的机器学习，概率模型和深度学习的讲义(2000+页)和视频链接
-    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **4,616** &nbsp;&nbsp; folks: **1,289**  &nbsp;&nbsp; `72 stars today`
+    - language: **Jupyter Notebook** &nbsp;&nbsp; stars: **4,623** &nbsp;&nbsp; folks: **1,289**  &nbsp;&nbsp; `72 stars today`
 
 1. [cdk-team / CDK](https://github.com/cdk-team/CDK)
     - CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily.
-    - language: **Go** &nbsp;&nbsp; stars: **723** &nbsp;&nbsp; folks: **119**  &nbsp;&nbsp; `167 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **728** &nbsp;&nbsp; folks: **119**  &nbsp;&nbsp; `167 stars today`
 
 1. [peng-zhihui / HoloCubic](https://github.com/peng-zhihui/HoloCubic)
     - 透明小电视
-    - language: **C** &nbsp;&nbsp; stars: **656** &nbsp;&nbsp; folks: **87**  &nbsp;&nbsp; `113 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **657** &nbsp;&nbsp; folks: **88**  &nbsp;&nbsp; `113 stars today`
 
 1. [wesdoyle / design-patterns-explained-with-food](https://github.com/wesdoyle/design-patterns-explained-with-food)
     - GoF Design Patterns with "Real-World" examples involving Food-Related Businesses and mock dependencies
-    - language: **C#** &nbsp;&nbsp; stars: **697** &nbsp;&nbsp; folks: **33**  &nbsp;&nbsp; `198 stars today`
+    - language: **C#** &nbsp;&nbsp; stars: **701** &nbsp;&nbsp; folks: **33**  &nbsp;&nbsp; `198 stars today`
 
 1. [PaddlePaddle / PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
     - Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）
-    - language: **Python** &nbsp;&nbsp; stars: **9,215** &nbsp;&nbsp; folks: **1,826**  &nbsp;&nbsp; `446 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **9,221** &nbsp;&nbsp; folks: **1,826**  &nbsp;&nbsp; `446 stars today`
 
 1. [MTK-bypass / bypass_utility](https://github.com/MTK-bypass/bypass_utility)
     - 无
-    - language: **Python** &nbsp;&nbsp; stars: **65** &nbsp;&nbsp; folks: **21**  &nbsp;&nbsp; `15 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **68** &nbsp;&nbsp; folks: **22**  &nbsp;&nbsp; `15 stars today`
 
 1. [ocornut / imgui](https://github.com/ocornut/imgui)
     - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-    - language: **C++** &nbsp;&nbsp; stars: **27,193** &nbsp;&nbsp; folks: **4,463**  &nbsp;&nbsp; `199 stars today`
+    - language: **C++** &nbsp;&nbsp; stars: **27,194** &nbsp;&nbsp; folks: **4,463**  &nbsp;&nbsp; `199 stars today`
 
 1. [moonD4rk / HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
     - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
-    - language: **Go** &nbsp;&nbsp; stars: **1,741** &nbsp;&nbsp; folks: **328**  &nbsp;&nbsp; `171 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **1,747** &nbsp;&nbsp; folks: **328**  &nbsp;&nbsp; `171 stars today`
 
 1. [coolsnowwolf / lede](https://github.com/coolsnowwolf/lede)
     - Lean's OpenWrt source
@@ -92,7 +92,7 @@
 
 1. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
     - 📚 Freely available programming books
-    - language: **无** &nbsp;&nbsp; stars: **172,841** &nbsp;&nbsp; folks: **40,101**  &nbsp;&nbsp; `414 stars today`
+    - language: **无** &nbsp;&nbsp; stars: **172,847** &nbsp;&nbsp; folks: **40,102**  &nbsp;&nbsp; `414 stars today`
 
 1. [Terri00 / vrc8ball](https://github.com/Terri00/vrc8ball)
     - Udon 8 ball pool game / physics engine
@@ -100,19 +100,19 @@
 
 1. [hathach / tinyusb](https://github.com/hathach/tinyusb)
     - An open source cross-platform USB stack for embedded system
-    - language: **C** &nbsp;&nbsp; stars: **1,214** &nbsp;&nbsp; folks: **204**  &nbsp;&nbsp; `46 stars today`
+    - language: **C** &nbsp;&nbsp; stars: **1,215** &nbsp;&nbsp; folks: **204**  &nbsp;&nbsp; `46 stars today`
 
 1. [scikit-learn / scikit-learn](https://github.com/scikit-learn/scikit-learn)
     - scikit-learn: machine learning in Python
-    - language: **Python** &nbsp;&nbsp; stars: **44,298** &nbsp;&nbsp; folks: **20,918**  &nbsp;&nbsp; `122 stars today`
+    - language: **Python** &nbsp;&nbsp; stars: **44,301** &nbsp;&nbsp; folks: **20,919**  &nbsp;&nbsp; `122 stars today`
 
 1. [hashicorp / nomad](https://github.com/hashicorp/nomad)
     - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-    - language: **Go** &nbsp;&nbsp; stars: **7,753** &nbsp;&nbsp; folks: **1,247**  &nbsp;&nbsp; `4 stars today`
+    - language: **Go** &nbsp;&nbsp; stars: **7,755** &nbsp;&nbsp; folks: **1,248**  &nbsp;&nbsp; `4 stars today`
 
 1. [vercel / next.js](https://github.com/vercel/next.js)
     - The React Framework
-    - language: **JavaScript** &nbsp;&nbsp; stars: **60,953** &nbsp;&nbsp; folks: **10,646**  &nbsp;&nbsp; `197 stars today`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **60,967** &nbsp;&nbsp; folks: **10,648**  &nbsp;&nbsp; `197 stars today`
 
 
 ## 近一周热门仓库
@@ -123,7 +123,7 @@
 
 1. [LXK9301 / jd_scripts](https://github.com/LXK9301/jd_scripts)
     - 无
-    - language: **JavaScript** &nbsp;&nbsp; stars: **1,864** &nbsp;&nbsp; folks: **1,019**  &nbsp;&nbsp; `844 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **1,865** &nbsp;&nbsp; folks: **1,019**  &nbsp;&nbsp; `844 stars this week`
 
 1. [tomlooman / ActionRoguelike](https://github.com/tomlooman/ActionRoguelike)
     - Third-person Action Roguelike made in Unreal Engine C++ (for Stanford CS193U 2020)
@@ -131,11 +131,11 @@
 
 1. [apache / superset](https://github.com/apache/superset)
     - Apache Superset is a Data Visualization and Data Exploration Platform
-    - language: **Python** &nbsp;&nbsp; stars: **33,896** &nbsp;&nbsp; folks: **6,700**  &nbsp;&nbsp; `1,288 stars this week`
+    - language: **Python** &nbsp;&nbsp; stars: **33,900** &nbsp;&nbsp; folks: **6,701**  &nbsp;&nbsp; `1,288 stars this week`
 
 1. [spantaleev / matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy)
     - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
-    - language: **HTML** &nbsp;&nbsp; stars: **1,547** &nbsp;&nbsp; folks: **348**  &nbsp;&nbsp; `468 stars this week`
+    - language: **HTML** &nbsp;&nbsp; stars: **1,548** &nbsp;&nbsp; folks: **348**  &nbsp;&nbsp; `468 stars this week`
 
 1. [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
     - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
@@ -143,11 +143,11 @@
 
 1. [FlaxEngine / FlaxEngine](https://github.com/FlaxEngine/FlaxEngine)
     - Flax Engine – multi-platform 3D game engine
-    - language: **C++** &nbsp;&nbsp; stars: **2,068** &nbsp;&nbsp; folks: **177**  &nbsp;&nbsp; `664 stars this week`
+    - language: **C++** &nbsp;&nbsp; stars: **2,067** &nbsp;&nbsp; folks: **177**  &nbsp;&nbsp; `664 stars this week`
 
 1. [Marak / faker.js](https://github.com/Marak/faker.js)
     - generate massive amounts of realistic fake data in Node.js and the browser
-    - language: **JavaScript** &nbsp;&nbsp; stars: **30,470** &nbsp;&nbsp; folks: **2,591**  &nbsp;&nbsp; `1,112 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **30,471** &nbsp;&nbsp; folks: **2,591**  &nbsp;&nbsp; `1,112 stars this week`
 
 1. [microsoft / DeepSpeed](https://github.com/microsoft/DeepSpeed)
     - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
@@ -155,7 +155,7 @@
 
 1. [elastic / elasticsearch](https://github.com/elastic/elasticsearch)
     - Free and Open, Distributed, RESTful Search Engine
-    - language: **Java** &nbsp;&nbsp; stars: **53,404** &nbsp;&nbsp; folks: **18,984**  &nbsp;&nbsp; `187 stars this week`
+    - language: **Java** &nbsp;&nbsp; stars: **53,405** &nbsp;&nbsp; folks: **18,985**  &nbsp;&nbsp; `187 stars this week`
 
 1. [aws / aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2)
     - AWS SDK for the Go programming language.
@@ -163,7 +163,7 @@
 
 1. [streamich / react-use](https://github.com/streamich/react-use)
     - React Hooks — 👍
-    - language: **TypeScript** &nbsp;&nbsp; stars: **18,896** &nbsp;&nbsp; folks: **1,312**  &nbsp;&nbsp; `758 stars this week`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **18,897** &nbsp;&nbsp; folks: **1,312**  &nbsp;&nbsp; `758 stars this week`
 
 1. [SerenityOS / serenity](https://github.com/SerenityOS/serenity)
     - The Serenity Operating System 🐞
@@ -171,19 +171,19 @@
 
 1. [firecracker-microvm / firecracker](https://github.com/firecracker-microvm/firecracker)
     - Secure and fast microVMs for serverless computing.
-    - language: **Rust** &nbsp;&nbsp; stars: **14,243** &nbsp;&nbsp; folks: **968**  &nbsp;&nbsp; `505 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **14,248** &nbsp;&nbsp; folks: **968**  &nbsp;&nbsp; `505 stars this week`
 
 1. [laravel / framework](https://github.com/laravel/framework)
     - 无
-    - language: **PHP** &nbsp;&nbsp; stars: **23,283** &nbsp;&nbsp; folks: **7,888**  &nbsp;&nbsp; `308 stars this week`
+    - language: **PHP** &nbsp;&nbsp; stars: **23,283** &nbsp;&nbsp; folks: **7,889**  &nbsp;&nbsp; `308 stars this week`
 
 1. [swc-project / swc](https://github.com/swc-project/swc)
     - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
-    - language: **Rust** &nbsp;&nbsp; stars: **10,522** &nbsp;&nbsp; folks: **246**  &nbsp;&nbsp; `175 stars this week`
+    - language: **Rust** &nbsp;&nbsp; stars: **10,523** &nbsp;&nbsp; folks: **246**  &nbsp;&nbsp; `175 stars this week`
 
 1. [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books)
     - 📚 Freely available programming books
-    - language: **无** &nbsp;&nbsp; stars: **172,841** &nbsp;&nbsp; folks: **40,101**  &nbsp;&nbsp; `941 stars this week`
+    - language: **无** &nbsp;&nbsp; stars: **172,847** &nbsp;&nbsp; folks: **40,102**  &nbsp;&nbsp; `941 stars this week`
 
 1. [jetlinks / jetlinks-community](https://github.com/jetlinks/jetlinks-community)
     - JetLinks 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。
@@ -203,7 +203,7 @@
 
 1. [brave / brave-browser](https://github.com/brave/brave-browser)
     - Next generation Brave browser for Android, Linux, macOS, Windows.
-    - language: **JavaScript** &nbsp;&nbsp; stars: **8,236** &nbsp;&nbsp; folks: **846**  &nbsp;&nbsp; `165 stars this week`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **8,237** &nbsp;&nbsp; folks: **846**  &nbsp;&nbsp; `165 stars this week`
 
 1. [great-expectations / great_expectations](https://github.com/great-expectations/great_expectations)
     - Always know what to expect from your data.
@@ -211,7 +211,7 @@
 
 1. [hashicorp / vault](https://github.com/hashicorp/vault)
     - A tool for secrets management, encryption as a service, and privileged access management
-    - language: **Go** &nbsp;&nbsp; stars: **19,049** &nbsp;&nbsp; folks: **2,766**  &nbsp;&nbsp; `74 stars this week`
+    - language: **Go** &nbsp;&nbsp; stars: **19,050** &nbsp;&nbsp; folks: **2,766**  &nbsp;&nbsp; `74 stars this week`
 
 1. [YatopiaMC / Yatopia](https://github.com/YatopiaMC/Yatopia)
     - The Most Powerful and Feature Rich Minecraft Server Software!
@@ -230,7 +230,7 @@
 
 1. [signalapp / Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
     - Signal — Private Messenger for Windows, Mac, and Linux
-    - language: **JavaScript** &nbsp;&nbsp; stars: **9,991** &nbsp;&nbsp; folks: **1,766**  &nbsp;&nbsp; `3,507 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **9,992** &nbsp;&nbsp; folks: **1,766**  &nbsp;&nbsp; `3,507 stars this month`
 
 1. [signalapp / Signal-iOS](https://github.com/signalapp/Signal-iOS)
     - A private messenger for iOS.
@@ -250,11 +250,11 @@
 
 1. [mxrch / GHunt](https://github.com/mxrch/GHunt)
     - 🕵️‍♂️ Investigate Google Accounts with emails.
-    - language: **Python** &nbsp;&nbsp; stars: **8,849** &nbsp;&nbsp; folks: **628**  &nbsp;&nbsp; `2,358 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **8,850** &nbsp;&nbsp; folks: **628**  &nbsp;&nbsp; `2,358 stars this month`
 
 1. [vitejs / vite](https://github.com/vitejs/vite)
     - Next generation frontend tooling. It's fast!
-    - language: **TypeScript** &nbsp;&nbsp; stars: **16,262** &nbsp;&nbsp; folks: **897**  &nbsp;&nbsp; `2,270 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **16,264** &nbsp;&nbsp; folks: **897**  &nbsp;&nbsp; `2,270 stars this month`
 
 1. [testerSunshine / 12306](https://github.com/testerSunshine/12306)
     - 12306智能刷票，订票
@@ -266,15 +266,15 @@
 
 1. [photoprism / photoprism](https://github.com/photoprism/photoprism)
     - Personal Photo Management powered by Go and Google TensorFlow
-    - language: **Go** &nbsp;&nbsp; stars: **10,358** &nbsp;&nbsp; folks: **530**  &nbsp;&nbsp; `2,518 stars this month`
+    - language: **Go** &nbsp;&nbsp; stars: **10,357** &nbsp;&nbsp; folks: **530**  &nbsp;&nbsp; `2,518 stars this month`
 
 1. [spantaleev / matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy)
     - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
-    - language: **HTML** &nbsp;&nbsp; stars: **1,547** &nbsp;&nbsp; folks: **348**  &nbsp;&nbsp; `614 stars this month`
+    - language: **HTML** &nbsp;&nbsp; stars: **1,548** &nbsp;&nbsp; folks: **348**  &nbsp;&nbsp; `614 stars this month`
 
 1. [iptv-org / iptv](https://github.com/iptv-org/iptv)
     - Collection of 5000+ publicly available IPTV channels from all over the world
-    - language: **JavaScript** &nbsp;&nbsp; stars: **26,082** &nbsp;&nbsp; folks: **667**  &nbsp;&nbsp; `3,529 stars this month`
+    - language: **JavaScript** &nbsp;&nbsp; stars: **26,083** &nbsp;&nbsp; folks: **667**  &nbsp;&nbsp; `3,529 stars this month`
 
 1. [bitcoin / bitcoin](https://github.com/bitcoin/bitcoin)
     - Bitcoin Core integration/staging tree
@@ -282,7 +282,7 @@
 
 1. [excalidraw / excalidraw](https://github.com/excalidraw/excalidraw)
     - Virtual whiteboard for sketching hand-drawn like diagrams
-    - language: **TypeScript** &nbsp;&nbsp; stars: **16,204** &nbsp;&nbsp; folks: **1,081**  &nbsp;&nbsp; `2,318 stars this month`
+    - language: **TypeScript** &nbsp;&nbsp; stars: **16,203** &nbsp;&nbsp; folks: **1,081**  &nbsp;&nbsp; `2,318 stars this month`
 
 1. [ethereum-mining / ethminer](https://github.com/ethereum-mining/ethminer)
     - Ethereum miner with OpenCL, CUDA and stratum support
@@ -298,11 +298,11 @@
 
 1. [apache / superset](https://github.com/apache/superset)
     - Apache Superset is a Data Visualization and Data Exploration Platform
-    - language: **Python** &nbsp;&nbsp; stars: **33,896** &nbsp;&nbsp; folks: **6,700**  &nbsp;&nbsp; `2,285 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **33,900** &nbsp;&nbsp; folks: **6,701**  &nbsp;&nbsp; `2,285 stars this month`
 
 1. [sherlock-project / sherlock](https://github.com/sherlock-project/sherlock)
     - 🔎 Hunt down social media accounts by username across social networks
-    - language: **Python** &nbsp;&nbsp; stars: **20,405** &nbsp;&nbsp; folks: **2,077**  &nbsp;&nbsp; `1,766 stars this month`
+    - language: **Python** &nbsp;&nbsp; stars: **20,407** &nbsp;&nbsp; folks: **2,077**  &nbsp;&nbsp; `1,766 stars this month`
 
 1. [tootsuite / mastodon](https://github.com/tootsuite/mastodon)
     - Your self-hosted, globally interconnected microblogging community
