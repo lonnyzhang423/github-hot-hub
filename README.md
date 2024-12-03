@@ -10,7 +10,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
-`更新时间：2024-12-04 04:14:13 +0800`
+`更新时间：2024-12-04 05:12:01 +0800`
 
 ## 今日热门仓库
 
